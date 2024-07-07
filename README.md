@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/NaghamWael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="NaghamWael" height="30" width="40" /></a>   
-                                                                                            ![Register - Login](https://github.com/NaghamProgrammer/NaghamProgrammer/assets/161651186/a352b188-fcda-4caa-828c-f1dd8f1b8125)
 </p>
 
 
