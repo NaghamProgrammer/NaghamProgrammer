@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://codeforces.com/profile/NaghamWael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="NaghamWael" height="30" width="40" /></a>   
 </p>
-![Register - Login](https://github.com/NaghamProgrammer/NaghamProgrammer/assets/161651186/331b1902-c543-4eb7-a038-755824792783)
 
 
 <h3 align="left">Languages and Tools:</h3>
