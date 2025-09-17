@@ -44,50 +44,66 @@
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 
-**Languages**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</p>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" hspace="15"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" hspace="15"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" hspace="15"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    </td>
+  </tr>
 
-**Frontend**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</p>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" hspace="15"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+    </td>
+  </tr>
 
-**Backend & Databases**
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</p>
+  <tr>
+    <td><b>Backend & Databases</b></td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" hspace="15"/>
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" hspace="15"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+    </td>
+  </tr>
 
-**AI & ML**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="40" height="40" alt="NumPy"/>
-  <img src="https://matplotlib.org/_static/logo_light.svg" width="40" height="40"/>
-</p>
+  <tr>
+    <td><b>AI & ML</b></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" hspace="15"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" hspace="15"/>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" hspace="15"/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" hspace="15"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" hspace="15"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="90" height="90" hspace="15" alt="NumPy"/>
+      <img src="https://matplotlib.org/_static/logo_light.svg" width="90" height="90"/>
+    </td>
+  </tr>
 
-**Data & Visualization**
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40" alt="Excel"/>
-</p>
+  <tr>
+    <td><b>Data & Visualization</b></td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" hspace="15"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40" hspace="15"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40" alt="Excel"/>
+    </td>
+  </tr>
 
-**Presentation**
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732224.png" width="40" height="40" alt="PowerPoint"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/>
-</p>
+  <tr>
+    <td><b>Presentation</b></td>
+    <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732224.png" width="40" height="40" hspace="15" alt="PowerPoint"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
