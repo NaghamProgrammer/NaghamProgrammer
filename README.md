@@ -94,12 +94,18 @@
     </td>
   </tr>
 
-   <tr>
-    <td><b>Hardware & HDL</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Verilog-FF9900?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" style="vertical-align:middle; margin-right:12px;">
-    </td>
-  </tr>
+<tr>
+  <td><b>Hardware & HDL</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Verilog-FF9900?style=for-the-badge&logo=verilog&logoColor=white"
+         alt="Verilog" style="vertical-align:middle; margin-right:12px;">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/mips-logo-png-transparent.png"
+         alt="MIPS Assembly"
+         style="vertical-align:middle; height:42px;">
+  </td>
+</tr>
+
+
 
   <tr>
     <td><b>Presentation</b></td>
