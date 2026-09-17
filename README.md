@@ -20,7 +20,7 @@
 
 
 <!-- About Section -->
-<h3 align="left">About Me</h3>
+<h3 align="left">About Me:</h3>
 
 I'm an AI & Data Science undergraduate at the Faculty of Computers and Artificial Intelligence, Cairo University (2023–2027), focused on building toward a Data Science / Machine Learning role. My work centers on Python — from data pipelines and classical ML to deep learning and applied NLP — and I try to pair coursework with projects that solve a real problem end to end rather than staying purely academic.
 
@@ -64,10 +64,10 @@ I'm also exploring freelancing as I round out my portfolio, and I'm always looki
 
 
 
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
+<!-- Tech Stack -->
+<h3 align="left">Tech Stack:</h3>
 
-<h4 align="left">Languages</h4>
+<h4 align="left">Programming Languages</h4>
 <hr>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -130,7 +130,14 @@ I'm also exploring freelancing as I round out my portfolio, and I'm always looki
 
 
 
----
+<p align="center">
+  <img src="assets/divider.gif" width="100%" alt="divider"/>
+</p>
+
+
 
 <!-- GitHub Stats -->
+
+<h3 align="left">GitHub Stats:</h3>
+
 
