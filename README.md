@@ -20,7 +20,7 @@
 
 
 <!-- About Section -->
-<h3 align="left">About Me:</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25"/> About Me:</h3>
 
 I'm an AI & Data Science undergraduate at the Faculty of Computers and Artificial Intelligence, Cairo University (2023–2027), focused on building toward a Data Science / Machine Learning role. My work centers on Python — from data pipelines and classical ML to deep learning and applied NLP — and I try to pair coursework with projects that solve a real problem end to end rather than staying purely academic.
 
@@ -65,7 +65,7 @@ I'm also exploring freelancing as I round out my portfolio, and I'm always looki
 
 
 <!-- Tech Stack -->
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/> Tech Stack:</h3>
 
 <h4 align="left">Programming Languages</h4>
 <hr>
