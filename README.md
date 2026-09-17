@@ -1,33 +1,33 @@
-<!-- Typing SVG -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0041C2&center=true&vCenter=true&width=600&lines=Hello+World,+this+is+Nagham!" alt="Typing SVG" />
-</h1>
+<!-- Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=500&color=0041C2&center=true&vCenter=true&multiline=true&repeat=false&width=420&height=90&lines=Hello+World,;this+is+Nagham!" alt="Typing SVG" style="vertical-align:middle;" />
+  <img src="https://media.tenor.com/TCRFRR67pVkAAAAj/rebrnd-coding.gif" height="90" alt="Coding GIF" style="vertical-align:middle;" />
+</p>
+
 
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=naghamprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="NaghamProgrammer" />
 </p>
 
-<!-- About Section -->
-<h3 align="center">I am a Computer Science & AI Student who is Passionate about:</h3>
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" valign="top">
-        <ul>
-          <li>🤖 AI & Machine Learning</li>
-          <li>📊 Data Analysis & Data Visualization</li>
-          <li>📈 Business Intelligence</li>
-          <li>🧩 Problem Solving</li>
-        </ul>
-      </td>
-      <td align="center" valign="top">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="AI GIF"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- About Section -->
+<h3 align="left">About Me</h3>
+
+I'm an AI & Data Science undergraduate at the Faculty of Computers and Artificial Intelligence, Cairo University (2023–2027), focused on building toward a Data Science / Machine Learning role. My work centers on Python — from data pipelines and classical ML to deep learning and applied NLP — and I try to pair coursework with projects that solve a real problem end to end rather than staying purely academic.
+
+A few things I've built recently:
+- **KhedmaBot** — a telecom customer-support RAG chatbot (LangChain, Cohere, Chroma) with a live feedback dashboard, automatic technician escalation, and resolution-intent tracking in both English and Arabic.
+- **BookWorm** — an AI-powered book assistant.
+- **Face Verification** — an access-control app using a Siamese neural network for identity matching, built as a teaching example for a Cairo University AI workshop I volunteered to instruct.
+
+I'm also exploring freelancing as I round out my portfolio, and I'm always looking to sharpen my skills in ML engineering, data visualization, and building tools people actually use.
+
+<p align="center">
+  <img src="assets/cozy_programming.gif" width="100%" alt="Cozy programming GIF"/>
+</p>
+
 
 ---
 
