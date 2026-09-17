@@ -36,7 +36,6 @@
 <p align="left">
 <a href="mailto:naghamw63@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nagham-wael-5aa70a318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nagham Wael" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/NaghamWael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="NaghamWael" height="30" width="40" /></a>
 </p>
 
 ---
@@ -121,8 +120,4 @@
 ---
 
 <!-- GitHub Stats -->
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=NaghamProgrammer&show_icons=true&locale=en" alt="naghamprogrammer" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naghamprogrammer&show_icons=true&locale=en&layout=compact" alt="naghamprogrammer" /></p>
-</div>
 
