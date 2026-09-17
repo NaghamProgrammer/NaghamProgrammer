@@ -10,7 +10,14 @@
   <img src="https://komarev.com/ghpvc/?username=naghamprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="NaghamProgrammer" />
 </p>
 
----
+
+
+<p align="center">
+  <img src="assets/divider.gif" width="100%" alt="divider"/>
+</p>
+
+
+
 
 <!-- About Section -->
 <h3 align="left">About Me</h3>
@@ -29,7 +36,16 @@ I'm also exploring freelancing as I round out my portfolio, and I'm always looki
 </p>
 
 
----
+
+
+
+<p align="center">
+  <img src="assets/divider.gif" width="100%" alt="divider"/>
+</p>
+
+
+
+
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
@@ -38,9 +54,16 @@ I'm also exploring freelancing as I round out my portfolio, and I'm always looki
 <a href="https://www.linkedin.com/in/nagham-wael-5aa70a318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nagham Wael" height="30" width="40" /></a>
 </p>
 
----
 
-<!-- Languages and Tools -->
+
+
+<p align="center">
+  <img src="assets/divider.gif" width="100%" alt="divider"/>
+</p>
+
+
+
+
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 
