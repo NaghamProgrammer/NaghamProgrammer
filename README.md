@@ -41,79 +41,69 @@
 ---
 
 <!-- Languages and Tools -->
+<!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" hspace="15"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" hspace="15"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" hspace="15"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    </td>
-  </tr>
+<h4 align="left">Languages</h4>
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" hspace="15"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-    </td>
-  </tr>
+<h4 align="left">Frontend</h4>
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-  <tr>
-    <td><b>Backend & Databases</b></td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" hspace="15"/>
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" hspace="15"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-    </td>
-  </tr>
+<h4 align="left">Backend & Databases</h4>
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
-  <tr>
-    <td><b>AI & ML</b></td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" hspace="15"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" hspace="15"/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" hspace="15"/>
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" hspace="15"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" hspace="15"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="90" height="90" hspace="15" alt="NumPy"/>
-      <img src="https://matplotlib.org/_static/logo_light.svg" width="90" height="90"/>
-    </td>
-  </tr>
+<h4 align="left">AI & ML</h4>
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+</p>
 
-  <tr>
-    <td><b>Data & Visualization</b></td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" hspace="15"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40" hspace="15"/>
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40" alt="Excel"/>
-    </td>
-  </tr>
+<h4 align="left">Data & Visualization</h4>
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-<tr>
-  <td><b>Hardware & HDL</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Verilog-FF9900?style=for-the-badge&logo=verilog&logoColor=white"
-         alt="Verilog" style="vertical-align:middle; margin-right:12px;">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/mips-logo-png-transparent.png"
-         alt="MIPS Assembly"
-         style="vertical-align:middle; height:42px;">
-  </td>
-</tr>
+<h4 align="left">Hardware & HDL</h4>
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog-FF9900?style=for-the-badge&logo=verilog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MIPS_Assembly-004080?style=for-the-badge"/>
+</p>
 
-
-
-  <tr>
-    <td><b>Presentation</b></td>
-    <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732224.png" width="40" height="40" hspace="15" alt="PowerPoint"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/>
-    </td>
-  </tr>
-</table>
+<h4 align="left">Presentation</h4>
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 
 
